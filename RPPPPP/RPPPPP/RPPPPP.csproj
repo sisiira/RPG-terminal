@@ -46,6 +46,7 @@
     <Compile Include="Assassin.cs" />
     <Compile Include="Aventure.cs" />
     <Compile Include="Entity.cs" />
+    <Compile Include="Equipement.cs" />
     <Compile Include="ForetAventure.cs" />
     <Compile Include="Guerrier.cs" />
     <Compile Include="Mage.cs" />

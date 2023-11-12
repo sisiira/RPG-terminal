@@ -11,9 +11,9 @@ namespace RPPPPP
         public Assassin(string nom) : base(nom)
         {
             HP = 10;
-            mana = 190;
+            mana = 120;
             defense = 38;
-            degats = 41;
+            degats = 23;
 
         }
     }

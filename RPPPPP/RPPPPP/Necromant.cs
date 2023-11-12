@@ -10,10 +10,10 @@ namespace RPPPPP
     {
         public Necromant(string nom) : base(nom)
         {
-            HP = 150;
+            HP = 118;
             mana = 248;
             defense = 31;
-            degats = 38;
+            degats = 27;
         }
     }
 }

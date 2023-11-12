@@ -1,0 +1,7 @@
+C:\Users\ymesk\OneDrive\Documents\RPPPPP\RPPPPP\obj\Debug\RPPPPP.csproj.AssemblyReference.cache
+C:\Users\ymesk\OneDrive\Documents\RPPPPP\RPPPPP\obj\Debug\RPPPPP.csproj.CoreCompileInputs.cache
+C:\Users\ymesk\OneDrive\Documents\RPPPPP\RPPPPP\bin\Debug\RPPPPP.exe.config
+C:\Users\ymesk\OneDrive\Documents\RPPPPP\RPPPPP\bin\Debug\RPPPPP.exe
+C:\Users\ymesk\OneDrive\Documents\RPPPPP\RPPPPP\bin\Debug\RPPPPP.pdb
+C:\Users\ymesk\OneDrive\Documents\RPPPPP\RPPPPP\obj\Debug\RPPPPP.exe
+C:\Users\ymesk\OneDrive\Documents\RPPPPP\RPPPPP\obj\Debug\RPPPPP.pdb

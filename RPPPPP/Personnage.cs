@@ -9,13 +9,15 @@ namespace RPPPPP
     public abstract class Personnage : Entity
     {
         public int Niveau;
-        private int experience;
+        public int experience;
+       public int PiecesOr { get; set; }
 
         public Personnage(string nom) : base(nom)
         {
             this.nom = nom;
             Niveau = 1;
             experience = 0;
+            PiecesOr = 50;
         }
         public void gagnerExperience(int experience)
         {
@@ -27,7 +29,7 @@ namespace RPPPPP
                 Console.WriteLine("Vous avez atteint un nouveau niveau" + Niveau + "!");
 
                 HP += 24;
-                mana += 10; 
+                mana += 10;
                 defense += 10;
                 degats += 11;
             }
@@ -37,7 +39,7 @@ namespace RPPPPP
         {
             return Math.Round(4 * (Math.Pow(Niveau, 3) / 5));
         }
-         
+
         public int GetLevel(int level)
         {
             return level;
@@ -54,5 +56,9 @@ namespace RPPPPP
         }
 
 
+        internal void AcheterEquipement(Equipement article)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

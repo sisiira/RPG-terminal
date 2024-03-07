@@ -10,10 +10,10 @@ namespace RPPPPP
     {
         public Mage(string nom) : base(nom)
         {
-            HP = 228;
+            HP = 108;
             mana = 290;
             defense = 22;
-            degats = 56;
+            degats = 39;
         }
     }
 }

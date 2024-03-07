@@ -44,11 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assassin.cs" />
+    <Compile Include="Aventure.cs" />
+    <Compile Include="Boutique.cs" />
     <Compile Include="Entity.cs" />
+    <Compile Include="Equipement.cs" />
+    <Compile Include="ForetAventure.cs" />
     <Compile Include="Guerrier.cs" />
     <Compile Include="Mage.cs" />
     <Compile Include="Monstre.cs" />
+    <Compile Include="MontagneAventure.cs" />
     <Compile Include="Necromant.cs" />
+    <Compile Include="NPC.cs" />
     <Compile Include="Personnage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -55,10 +55,5 @@ namespace RPPPPP
         {
             return this.estMort;
         }
-
-
-
-
-
     }
 }

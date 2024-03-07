@@ -10,7 +10,7 @@ namespace RPPPPP
     {
         public Guerrier(string nom) : base(nom)
         {
-            HP = 410;
+            HP = 140;
             mana = 240;
             defense = 49;
             degats = 18;

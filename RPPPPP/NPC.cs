@@ -6,15 +6,18 @@ using System.Threading.Tasks;
 
 namespace RPPPPP
 {
-    public class Assassin : Personnage
+    public class NPC : Entity
     {
-        public Assassin(string nom) : base(nom)
+        public NPC(string nom) : base(nom)
         {
             HP = 10;
-            mana = 120;
-            defense = 38;
-            degats = 23;
-
         }
+
+        public void Parler()
+        {
+            Console.WriteLine(nom + ": Bonjour, aventurier!");
+        }
+
     }
+
 }
